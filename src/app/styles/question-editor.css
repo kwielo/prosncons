@@ -1,0 +1,19 @@
+
+.question-editor input {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6em;
+    border: none;
+    border-bottom: 2px solid #fff;
+    outline: none !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    resize: none;
+    width: 100%;
+    text-align: center;
+    font-weight: 200;
+}
+
+.question-editor input:focus {
+    border-bottom: 2px solid #efefef;
+}
