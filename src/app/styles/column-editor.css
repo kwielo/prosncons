@@ -1,0 +1,25 @@
+.column-editor-head::before {
+    color: #444 !important;
+}
+
+.column-editor-comp {
+    vertical-align: text-top;
+    height: 95%;
+    min-height: 95%;
+    cursor: text;
+    /*border: 1px solid red;*/
+}
+
+.column-editor-comp textarea {
+    font-family: 'Raleway', sans-serif;
+    font-size: 1.6em;
+    border: none;
+    outline: none !important;
+    -webkit-box-shadow: none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    resize: none;
+    margin-left: 4.5%;
+    line-height: 1.9em;
+}
+
